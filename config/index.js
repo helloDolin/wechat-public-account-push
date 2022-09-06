@@ -49,7 +49,7 @@ export const config = {
       useTemplateId: "q7EtPm8iyRAQSoLDhMl6ribbg8PBKHUlURlIxZjhgyY",
       province: "上海",
       city: "上海",
-      openUrl: "https://wangxinleo.cn"
+      openUrl: "https://dolin.cool"
     }, 
   ],
 
@@ -58,7 +58,7 @@ export const config = {
    */
 
   // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "Gj7CnHZJMDgQnZyrzxD-MG4VDjPvHM9HE2ofbP_CNUM",
+  CALLBACK_TEMPLATE_ID: "uxjJ36W40FYqwrM5e6XyePpW9ix60mWVZ03byimDqmA",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
@@ -91,6 +91,8 @@ export const config = {
    */
   FESTIVALS: [
     {"type": "生日", "name": "鸭梨", "year": "1991", "date": "05-04"},
+    {"type": "节日", "name": "中秋", "year": "2022", "date": "09-10"},
+    {"type": "节日", "name": "十一", "year": "2022", "date": "10-01"},
   ],
 
   /**
@@ -98,7 +100,7 @@ export const config = {
    * 如果为3, 则仅展示“将要到达” 的3个重要节日提醒，剩下的将被忽略
    * 如果为0, 则默认展示全部
    */
-  FESTIVALS_LIMIT: 1,
+  FESTIVALS_LIMIT: 3,
 
   /** 日期相关 */
 
