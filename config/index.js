@@ -35,7 +35,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oOVbCt3dLsaoHjzT1bSq4fSdMk1k",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "Gj7CnHZJMDgQnZyrzxD-MG4VDjPvHM9HE2ofbP_CNUM",
+      useTemplateId: "q7EtPm8iyRAQSoLDhMl6ribbg8PBKHUlURlIxZjhgyY",
       // 所在省份
       province: "上海",
       // 所在城市
@@ -44,27 +44,11 @@ export const config = {
       openUrl: "https://dolin.cool"
     }, 
     {
-      name: "老婆1", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
-    }, 
-    {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
-    }, 
-    {
-      name: "老婆3", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
+      name: "鸭梨", 
+      id: "oOVbCtwtu4l3ZpcVgRyDDe6WLoZo",
+      useTemplateId: "q7EtPm8iyRAQSoLDhMl6ribbg8PBKHUlURlIxZjhgyY",
+      province: "上海",
+      city: "上海",
       openUrl: "https://wangxinleo.cn"
     }, 
   ],
@@ -107,9 +91,6 @@ export const config = {
    */
   FESTIVALS: [
     {"type": "生日", "name": "鸭梨", "year": "1991", "date": "05-04"},
-    {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
-    {"type": "生日", "name": "李四", "year": "1996", "date": "09-31"},
-    {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
   ],
 
   /**
